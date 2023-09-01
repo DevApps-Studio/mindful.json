@@ -841,7 +841,7 @@
     },
     {
       "author": "Eagle Wall",
-      "url": https://raw.githubusercontent.com/DevApps-Studio/mindful.json/main/HandMade/37.png",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/mindful.json/main/HandMade/37.png",
       "name": "HandMade 37",
       "collections": "HandMade"
     },
@@ -1148,7 +1148,7 @@
     {
       "author": "Eagle Wall",
       "url": "https://raw.githubusercontent.com/DevApps-Studio/mindful.json/main/Floral/42.png",
-      "name": Floral 42",
+      "name": "Floral 42",
       "collections": "Floral"
     },
     {
@@ -2431,7 +2431,7 @@
     },
     {
       "author": "Eagle Wall",
-      "url": https://raw.githubusercontent.com/DevApps-Studio/mindful.json/main/Fantasy%20Zoo/6.jpg",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/mindful.json/main/Fantasy%20Zoo/6.jpg",
       "name": "Fantasy Zoo 6",
       "collections": "Fantasy Zoo"
     },
