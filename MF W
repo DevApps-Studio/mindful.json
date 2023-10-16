@@ -1,6 +1,96 @@
  [
     {
       "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/mindful.json/main/Art/15.jpeg",
+      "name": "Art 15",
+      "collections": "Art"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/mindful.json/main/Art/14.jpeg",
+      "name": "Art 14",
+      "collections": "Art"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/mindful.json/main/Art/13.jpeg",
+      "name": "Art 13",
+      "collections": "Art"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/mindful.json/main/Art/12.jpeg",
+      "name": "Art 12",
+      "collections": "Art"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/mindful.json/main/Art/11.jpeg",
+      "name": "Art 11",
+      "collections": "Art"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/mindful.json/main/Art/10.jpeg",
+      "name": "Art 10",
+      "collections": "Art"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/mindful.json/main/Art/9.jpeg",
+      "name": "Art 9",
+      "collections": "Art"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/mindful.json/main/Art/8.jpeg",
+      "name": "Art 8",
+      "collections": "Art"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/mindful.json/main/Art/7.jpeg",
+      "name": "Art 7",
+      "collections": "Art"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/mindful.json/main/Art/6.jpeg",
+      "name": "Art 6",
+      "collections": "Art"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/mindful.json/main/Art/5.jpeg",
+      "name": "Art 5",
+      "collections": "Art"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/mindful.json/main/Art/4.jpeg",
+      "name": "Art 4",
+      "collections": "Art"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/mindful.json/main/Art/3.jpeg",
+      "name": "Art 3",
+      "collections": "Art"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/mindful.json/main/Art/2.jpeg",
+      "name": "Art 2",
+      "collections": "Art"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/mindful.json/main/Art/1.jpeg",
+      "name": "Art 1",
+      "collections": "Art"
+    },  
+    {
+      "author": "Eagle Wall",
       "url": "https://raw.githubusercontent.com/DevApps-Studio/mindful.json/main/Minimal/119.png",
       "name": "Minimal 119",
       "collections": "Minimal"
