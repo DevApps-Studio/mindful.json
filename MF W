@@ -1,6 +1,48 @@
  [
     {
       "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/mindful.json/main/AMOLED/41.png",
+      "name": "AMOLED 41",
+      "collections": "AMOLED"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/mindful.json/main/AMOLED/40.png",
+      "name": "AMOLED 40",
+      "collections": "AMOLED"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/mindful.json/main/AMOLED/39.png",
+      "name": "AMOLED 39",
+      "collections": "AMOLED"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/mindful.json/main/AMOLED/38.png",
+      "name": "AMOLED 38",
+      "collections": "AMOLED"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/mindful.json/main/AMOLED/37.png",
+      "name": "AMOLED 37",
+      "collections": "AMOLED"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/mindful.json/main/AMOLED/36.png",
+      "name": "AMOLED 36",
+      "collections": "AMOLED"
+    },
+    {
+      "author": "Eagle Wall",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/mindful.json/main/AMOLED/35.png",
+      "name": "AMOLED 35",
+      "collections": "AMOLED"
+    },
+    {
+      "author": "Eagle Wall",
       "url": "https://raw.githubusercontent.com/DevApps-Studio/mindful.json/main/Nature/56.jpeg",
       "name": "Nature 56",
       "collections": "Nature"
